@@ -25,4 +25,4 @@ I am a web development student specializing in building modern, responsive, and 
 
 ##  Connect with me
 https://www.linkedin.com/in/ayman-bounaouj-445269351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- GitHub: https://github.com/aymanbouanouj
+- GitHub: https://github.com/aymanbounaouj
